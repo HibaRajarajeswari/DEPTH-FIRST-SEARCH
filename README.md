@@ -1,6 +1,6 @@
 # Lab Experiment 2: Depth First Search
-## AIM:
-Write a program to implement depth first search. 
+
+## Write a program to implement depth first search. 
 ```
 graph = {
     '2': ['3', '4'],
