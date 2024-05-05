@@ -1,6 +1,8 @@
 # Lab Experiment 2: Depth First Search
-
-## Write a program to implement depth first search. 
+## DATE: 17/2/2024
+## REGISTER NUMBER:212221040056
+# AIM:
+## Write a program to implement depth-first search. 
 ```
 graph = {
     '2': ['3', '4'],
